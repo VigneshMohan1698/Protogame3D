@@ -1,0 +1,6 @@
+<Commands>
+	<SpawnActor type ="Cube" pos="7.5,6.5,2.0" />
+	<SpawnActor type ="Sphere" pos="3.0,2.0,1.0" />
+</Commands>
+
+
